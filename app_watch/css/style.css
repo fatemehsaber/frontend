@@ -1,0 +1,246 @@
+/* Home */
+
+html,
+body {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url(../images/photo11177949423.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+
+
+/* header */
+
+.txt h2 {
+    color: #5B288E;
+    padding: 0 1rem;
+}
+
+
+/* end header */
+
+
+/* asli */
+
+.asli {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.circle {
+    width: 400px;
+    height: 400px;
+    background-color: #601CA3;
+    border-radius: 50%;
+    /* برای شکل دایره */
+}
+
+#time {
+    font-size: 4rem;
+    color: #fff;
+    text-align: center;
+    padding: 10rem 5rem;
+}
+
+
+/* End asli */
+
+
+/* moji */
+
+.moji {
+    top: 40rem;
+    left: 0;
+    width: 99rem;
+    height: 30rem;
+    display: block;
+    background-image: url(../images/waves-haikei@2x.png);
+    background-size: cover;
+    background-position: center center;
+}
+
+
+/* End moji */
+
+
+/* End Home */
+
+
+/* eleman */
+
+.icon {
+    top: 50rem;
+    width: 100%;
+    height: 30rem;
+    background-color: #34046B;
+}
+
+.floatright {
+    width: 33.33%;
+    float: right;
+    height: 15rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.c-r {
+    width: 200px;
+    height: 200px;
+    border-color: #601CA3;
+    border-width: 0.2rem;
+    border-style: solid;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* برای شکل دایره */
+}
+
+.i-r {
+    margin-left: 2rem;
+}
+
+.floatcenter {
+    width: 33.33%;
+    height: 30rem;
+    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.c-c {
+    width: 250px;
+    height: 250px;
+    background-color: #601CA3;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* برای شکل دایره */
+}
+
+.i-c {
+    margin-left: 1rem;
+}
+
+.floatleft {
+    width: 33.33%;
+    float: right;
+    height: 15rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.c-l {
+    width: 200px;
+    height: 200px;
+    border-color: #601CA3;
+    border-width: 0.2rem;
+    border-style: solid;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* برای شکل دایره */
+}
+
+.i-l {
+    margin-left: 1rem;
+}
+
+
+/* End eleman */
+
+
+/* footer */
+
+.footer {
+    top: 50rem;
+    width: 100%;
+    height: 10rem;
+    background-color: #34046B;
+}
+
+.shape {
+    width: 930px;
+    height: 130px;
+    background-color: #4B1086;
+    box-shadow: #4B1086;
+    border-radius: 4rem;
+    margin-right: 20rem;
+}
+
+.box1 {
+    margin-top: 1rem;
+    margin-right: 6.6rem;
+    width: 12rem;
+    float: right;
+}
+
+.i-b1:hover {
+    top: 0;
+    width: 7rem;
+    height: 7rem;
+    border-radius: 1rem;
+    background-color: #34046B;
+}
+
+.box2 {
+    margin-top: 1rem;
+    width: 12rem;
+    float: right;
+}
+
+.i-b2:hover {
+    top: 0;
+    width: 7rem;
+    height: 7rem;
+    border-radius: 1rem;
+    background-color: #34046B;
+}
+
+.box3 {
+    margin-top: 1rem;
+    width: 12rem;
+    float: right;
+}
+
+.i-b3:hover {
+    top: 0;
+    width: 7rem;
+    height: 7rem;
+    border-radius: 1rem;
+    background-color: #34046B;
+}
+
+.box4 {
+    margin-top: 1rem;
+    width: 12rem;
+    float: right;
+}
+
+.i-b4:hover {
+    top: 0;
+    width: 7rem;
+    height: 7rem;
+    border-radius: 1rem;
+    background-color: #34046B;
+}
+
+.shape h6 {
+    text-align: center;
+    margin-right: -5rem;
+    color: #9766CD;
+}
+
+
+/* End footer */
